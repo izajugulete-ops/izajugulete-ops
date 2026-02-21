@@ -1,16 +1,19 @@
-## Hi there 👋
+# Salut, sunt Iza! 👋
 
-<!--
-**izajugulete-ops/izajugulete-ops** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### ✨ Despre mine
+Sunt pasionată de tehnologie și îmi place să construiesc proiecte care rezolvă probleme reale. Momentan mă concentrez pe învățarea și dezvoltarea în zona de **Operations / DevOps** (sau ce domeniu preferi tu).
 
-Here are some ideas to get you started:
+- 🔭 Lucrez în prezent la: [Nume Proiect]
+- 🌱 Învăț despre: Docker, Kubernetes și Python
+- 👯 Caut să colaborez la: Proiecte Open Source
+- 💬 Întreabă-mă despre: Automatizări sau Linux
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠️ Tehnologii și unelte
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+
+---
+
+### 📫 Cum mă poți contacta:
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](LINK-UL-TAU-DE-LINKEDIN)
