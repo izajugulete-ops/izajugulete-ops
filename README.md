@@ -5,16 +5,19 @@ I am a **Student of Electronics and Telecommunications** at the POLITEHNICA Univ
 
 ---
 
-## 🚀 Currently Working On
+### 🚀 Currently Working On
 
 * **[ESP32 Marvel BLE Bridge](link-to-your-repo)** * Developing a communication bridge between an **ESP32 microcontroller** and a mobile application via **BLE (Bluetooth Low Energy)**.
   * The system performs WiFi network scanning and integrates with a **REST API** to fetch Marvel character data, transmitting it asynchronously using **JSON** serialization.
   * **Tech Stack:** `C++`, `Arduino`, `BLE`, `WiFiClient`, `ArduinoJson`.
 
-### 🛠️ Tehnologii și unelte
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+---
+
+### 🛠️ Technical toolkit:
+
+Languages: C/ C++, Python
+Beginner/ Learning: Arduino
+Data Science: MatLab, Matplotlib
 
 ---
 
