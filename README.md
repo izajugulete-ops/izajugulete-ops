@@ -16,4 +16,4 @@ Sunt pasionată de tehnologie și îmi place să construiesc proiecte care rezol
 ---
 
 ### 📫 Cum mă poți contacta:
-[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)]({https://www.linkedin.com/in/izabela-ana-maria-jugulete-2426143a6/)
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/izabela-ana-maria-jugulete-2426143a6/)
