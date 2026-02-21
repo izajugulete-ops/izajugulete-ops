@@ -1,7 +1,11 @@
-# Salut, sunt Iza! 👋
+# Hello, I'm Iza! 👋
 
-### ✨ Despre mine
-Sunt pasionată de tehnologie și îmi place să construiesc proiecte care rezolvă probleme reale. Momentan mă concentrez pe învățarea și dezvoltarea în zona de **Operations / DevOps** (sau ce domeniu preferi tu).
+### ✨ About me
+I am a **Student of Electronics and Telecommunications** at the POLITEHNICA University of Bucharest, but also studying **Computer Science**, specializing in **Object-Oriented Programming** and **Data Structures and Algorithms**. My passion is technology and i like to work on projects that resolve real life problems.
+
+---
+
+
 
 - 🔭 Lucrez în prezent la: [Nume Proiect]
 - 🌱 Învăț despre: Docker, Kubernetes și Python
