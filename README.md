@@ -21,5 +21,6 @@ I am a **Student of Electronics and Telecommunications** at the POLITEHNICA Univ
 
 ---
 
-### 📫 Cum mă poți contacta:
-[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/izabela-ana-maria-jugulete-2426143a6/)
+### 📂 Featured Projects
+
+Here you can see some of my personal projects
