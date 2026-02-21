@@ -1,7 +1,7 @@
 # Hello, I'm Iza! 👋
 
 ### ✨ About me
-I am a **Student of Electronics and Telecommunications** at the POLITEHNICA University of Bucharest, but also studying **Computer Science**, specializing in **Object-Oriented Programming** and **Data Structures and Algorithms**. My passion is technology and i like to work on projects that resolve real life problems.
+I am a **Student of Electronics and Telecommunications** at the POLITEHNICA University of Bucharest, but also studying **Computer Science**, specializing in **Object-Oriented Programming** and **Data Structures and Algorithms**. Some of my hobbies are technology, video games and working on projects that resolve real life problems.
 
 ---
 
