@@ -15,9 +15,9 @@ I am a **Student of Electronics and Telecommunications** at the POLITEHNICA Univ
 
 ### 🛠️ Technical toolkit:
 
-Languages: C/ C++, Python
-Beginner/ Learning: Arduino
-Data Science: MatLab, Matplotlib
+Languages: C/ C++, Python.
+Beginner/ Learning: Arduino.
+Data Science: MatLab, Matplotlib.
 
 ---
 
