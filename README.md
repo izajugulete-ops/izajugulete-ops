@@ -7,7 +7,7 @@ I am a **Student of Electronics and Telecommunications** at the POLITEHNICA Univ
 
 ### 🚀 Currently Working On
 
-* **[ESP32 Marvel BLE Bridge]([https://github.com/izajugulete-ops/esp32-ble-wifi-bridge])** * Developing a communication bridge between an **ESP32 microcontroller** and a mobile application via **BLE (Bluetooth Low Energy)**.
+* **[ESP32 Marvel BLE Bridge](https://github.com/izajugulete-ops/esp32-ble-wifi-bridge)** * Developing a communication bridge between an **ESP32 microcontroller** and a mobile application via **BLE (Bluetooth Low Energy)**.
   * The system performs WiFi network scanning and integrates with a **REST API** to fetch Marvel character data, transmitting it asynchronously using **JSON** serialization.
   * **Tech Stack:** `C++`, `Arduino`, `BLE`, `WiFiClient`, `ArduinoJson`.
 
